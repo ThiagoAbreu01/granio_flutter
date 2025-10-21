@@ -116,20 +116,20 @@ class CustomAppBar extends StatelessWidget implements PreferredSizeWidget {
                           ? CustomThemeSwitcher.themeType.brightness ==
                                   Brightness.dark
                               ? Image.asset(
-                                  'assets/images/logo_solpi_fundo_transparente.png')
+                                  'assets/images/logo_granio_fundo_transparente.png')
                               : Image.asset(
-                                  'assets/logo/Default/ConstruDesk_Long_fundo_transparente.png')
+                                  'assets/logo/Default/Granio_Long_fundo_transparente.png')
                           : CustomThemeSwitcher.themeType.brightness ==
                                   Brightness.dark
                               ? Image.asset(
-                                  'assets/logo/Default/ConstruDesk_Long_fundo_transparente.png')
+                                  'assets/logo/Default/Granio_Long_fundo_transparente.png')
                               : Image.asset(
-                                  'assets/logo/Default/ConstruDesk_Long_fundo_transparente.png')
+                                  'assets/logo/Default/Granio_Long_fundo_transparente.png')
                       : context.isDarkTheme
                           ? Image.asset(
-                              'assets/logo/Default/ConstruDesk_Long_black_fundo_transparente.png')
+                              'assets/logo/Default/Granio_Long_black_fundo_transparente.png')
                           : Image.asset(
-                              'assets/logo/Default/ConstruDesk_Long_fundo_transparente.png'),
+                              'assets/logo/Default/Granio_Long_fundo_transparente.png'),
                 );
               }),
             ],
@@ -240,20 +240,20 @@ class CustomAppBar extends StatelessWidget implements PreferredSizeWidget {
                           ? CustomThemeSwitcher.themeType.brightness ==
                                   Brightness.dark
                               ? Image.asset(
-                                  'assets/images/logo_solpi_fundo_transparente.png')
+                                  'assets/images/logo_granio_fundo_transparente.png')
                               : Image.asset(
-                                  'assets/logo/Default/ConstruDesk_Long_fundo_transparente.png')
+                                  'assets/logo/Default/Granio_Long_fundo_transparente.png')
                           : CustomThemeSwitcher.themeType.brightness ==
                                   Brightness.dark
                               ? Image.asset(
-                                  'assets/logo/Default/ConstruDesk_Long_fundo_transparente.png')
+                                  'assets/logo/Default/Granio_Long_fundo_transparente.png')
                               : Image.asset(
-                                  'assets/logo/Default/ConstruDesk_Long_fundo_transparente.png')
+                                  'assets/logo/Default/Granio_Long_fundo_transparente.png')
                       : context.isDarkTheme
                           ? Image.asset(
-                              'assets/logo/Default/ConstruDesk_Long_black_fundo_transparente.png')
+                              'assets/logo/Default/Granio_Long_black_fundo_transparente.png')
                           : Image.asset(
-                              'assets/logo/Default/ConstruDesk_Long_fundo_transparente.png'),
+                              'assets/logo/Default/Granio_Long_fundo_transparente.png'),
                 );
               }),
             ],
@@ -389,21 +389,21 @@ class CustomAppBar extends StatelessWidget implements PreferredSizeWidget {
                                                 .themeType.brightness ==
                                             Brightness.dark
                                         ? Image.asset(
-                                            'assets/images/logo_solpi_fundo_transparente.png')
+                                            'assets/images/logo_granio_fundo_transparente.png')
                                         : Image.asset(
-                                            'assets/images/logo_solpi_fundo_transparente.png')
+                                            'assets/images/logo_granio_fundo_transparente.png')
                                     : CustomThemeSwitcher
                                                 .themeType.brightness ==
                                             Brightness.dark
                                         ? Image.asset(
-                                            'assets/images/logo_solpi_fundo_transparente.png')
+                                            'assets/images/logo_granio_fundo_transparente.png')
                                         : Image.asset(
-                                            'assets/images/logo_solpi_fundo_transparente.png')
+                                            'assets/images/logo_granio_fundo_transparente.png')
                                 : context.isDarkTheme
                                     ? Image.asset(
-                                        'assets/images/logo_solpi_fundo_transparente.png')
+                                        'assets/images/logo_granio_fundo_transparente.png')
                                     : Image.asset(
-                                        'assets/images/logo_solpi_fundo_transparente.png'),
+                                        'assets/images/logo_granio_fundo_transparente.png'),
                           ),
                           const SizedBox(width: 15)
                         ],

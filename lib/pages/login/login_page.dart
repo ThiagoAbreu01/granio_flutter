@@ -131,7 +131,7 @@ class _LoginPageState extends State<LoginPage> with Loader {
                                 height: 70,
                                 width: 200,
                                 // child: Image.asset(
-                                //   'assets/images/logo_solpi_fundo_transparente.png',
+                                //   'assets/images/logo_granio_fundo_transparente.png',
                                 //   fit: BoxFit.fill,
                                 // ),
                               ),
